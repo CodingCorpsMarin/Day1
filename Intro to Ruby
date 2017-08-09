@@ -1,0 +1,28 @@
+Competencies
+
+Ruby is an object-oriented language
+Objects are “things” that contain data, have properties(attributes), and can perform methods
+Variables are placeholders for data(info)
+Ruby supports different data types: strings, integers, booleans, arrays, and hashes
+Strings are “words”
+Integers are numbers
+Booleans are True/False
+Arrays are collections of data
+Hashes are key/value pairs of data
+All these data types are objects, you are operate on all of them
+Each element of a data type is “indexed” and you can access them individually
+
+
+
+
+Applications
+
+Make your own variables, in various different types. (eg. favorite_food = “pizza”, is_tall = false, pets = 2, etc)
+Create arrays and hashes:  for example, rappers = [“Kanye”, “Jay-Z”, “Tupac”, “KDot”, “B.I.G”]
+Pets = { “Spot” => “Dog”, “Whiskers” => “Cat”}
+Operate on your created variables, for example, what is the third rapper in your list?
+Say “Hello world!”
+
+
+
+
