@@ -1,0 +1,18 @@
+
+Competencies
+Applications
+The internet connects your computer to websites through DNS servers
+DNS servers on each side connect/talk to each other, your computer gets served info, that info allows it to access the host (site) This is called REQUEST and RESPONSE
+HTML is not a scripting language, it is more like a framework to put all your real code in
+HTML elements are enclosed in tags
+HTML documentation lists all the tags and what they do
+HTML can submit data through forms <form>
+
+
+Read and understand browser network logs/status codes
+Understand the page source
+Reference the HTML documentation
+Create a basic HTML page and play around with some basic tags
+Create HTML page with images and tables
+Create HTML page with simple forms
+
